@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "My world-class Nuxt.js project",
+  "author": "joaquintrevino",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc15",
+    "cookieparser": "^0.1.0",
+    "graphql": "^14.5.8",
+    "js-cookie": "^2.2.1",
+    "luxon": "^1.19.3",
+    "nuxt": "^2.0.0",
+    "strapi-sdk-javascript": "^0.3.3",
+    "uikit": "^3.2.1",
+    "vue-datetime": "^1.0.0-beta.10",
+    "weekstart": "^1.0.0"
+  },
+  "devDependencies": {}
+}
