@@ -15,7 +15,7 @@
     "cookieparser": "^0.1.0",
     "graphql": "^14.5.8",
     "js-cookie": "^2.2.1",
-    "luxon": "^1.19.3",
+    "luxon": "^2.5.2",
     "nuxt": "^2.0.0",
     "strapi-sdk-javascript": "^0.3.3",
     "uikit": "^3.2.1",
